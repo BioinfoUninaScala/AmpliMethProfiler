@@ -2,7 +2,7 @@
 PACKAGE NAME ---> AmpliMethProfiler 
 VERSION ----> 1.2
 LICENCE---> GPL
-CREATED BY-> Giovanni Scala <giovanni.scala[at]helsinki.fi>
+CREATED BY-> Giovanni Scala <giovanni.scala[at]unina.it>
 ==============================================
 
 INDEX:
